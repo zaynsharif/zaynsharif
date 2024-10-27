@@ -1,7 +1,5 @@
 # Zayn's Portfolio
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio)
-
 ## 👋 About Me
 Hello! I'm Zayn, a 21-year-old developer specializing in game development with **Roblox**, **Unity**, and **Unreal Engine**. I have a passion for creating immersive and engaging experiences in the gaming world.
 
