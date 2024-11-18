@@ -24,7 +24,3 @@ I am currently learning:
 ### 📈 CFD Projects
 I am also working on projects related to **Computational Fluid Dynamics (CFD)** to enhance my skills in simulation and analysis.
 
-## 📫 Connect with Me
-Feel free to reach out through my social media:
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
